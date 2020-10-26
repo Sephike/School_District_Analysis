@@ -13,11 +13,11 @@ In order to do the analysis we needed to find certain data, the following is som
 - The total passing percentage at Thomas High School
 # Changes That Were Made
 1. Taking the 9th grade class out of Thomas High School caused many things to happen as a side effect, but it alone is a huge change.
-!["Per School Summary"]("Resources/thomas_high_school.png")
+!["Per School Summary"](Resources/thomas_high_school.png)
 2. The total students changes multiple different sets of data all throughout the analysis
 3. Looking at the information again we found that the 5 lowest and 5 highest schools changed, with the 9th grade class taken away from the overall scores in Thomas High School the schools scores went up dramatically
-!["Top 5 Performing Schools and Lowest 5 Performing Schools"]("Resources/5_lowest_and_5_highest.png")
+!["Top 5 Performing Schools and Lowest 5 Performing Schools"](Resources/5_lowest_and_5_highest.png)
 4. The three dataframes at the end have entirely new data to work with now and can help to make more accurate desicions based on the data.
-!["Spending Per Student"]("Resources/spending_per_student.png")
-!["Size of School"]("Resources/school_size.png")
-!["Type of School"]("Resources/school_type.png")
+!["Spending Per Student"](Resources/spending_per_student.png)
+!["Size of School"](Resources/school_size.png)
+!["Type of School"](Resources/school_type.png)
